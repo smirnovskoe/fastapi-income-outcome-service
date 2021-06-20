@@ -27,3 +27,7 @@ class OperationSchema(OperationBaseSchema):
 
 class OperationCreateSchema(OperationBaseSchema):
     pass
+
+
+class OperationUpdateSchema(OperationBaseSchema):
+    pass
